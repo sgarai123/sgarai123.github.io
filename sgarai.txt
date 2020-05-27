@@ -16,6 +16,6 @@ Hey There! This is the portflio website in the skin of a terminal.
 <a href="hackerone.com/sgarai">Hackerone</a> and <br>
 <a href="bugcrowd.com/sgarai701">Bugcroud</a>.</p>
 
-You can also give your email ID for contacting you, feel free to send me an email at<a href="sgarai701@gmail.com">Email</a>.
+You can also give your email ID for contacting you, feel free to send me an email at<a href="sgarai701@gmail.com"> Email</a>.
 
 <p>Thank You</p>
