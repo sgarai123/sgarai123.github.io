@@ -1,29 +1,93 @@
+       
+
+
+
+
+
+<pre>
+		   _           .          .                                          
+		   , -' )         ( \-------.,')            (\_________________________  
+		 , ,-/ |          /\_) )     \/            ,' _.----------------------,\ 
+	   ,',  /, |         /      >--. ,)           / /\\                      / ' 
+	  / ,  //|,'        /'     '\--'\\)          /,'  \\     `        `    ,     
+	 / ,  // ||       ,'     (.--^( `')         //     \\      `        \/       
+	( ,  //  ||,___,-'    (___\\ \'^^^'        //       \\       `      ,        
+	 \  //   ||--.__     (     \`^--)  _____.-'/         \\   `    `   /         
+	  >'/    ||,        (       \|_(\-'      ,'           \\   `     \,          
+	 /,'     ||          \           \      /              \\    `   /           
+	(/       ||           \           )  ,'(     `     `    \\      ,            
+	 `       ||\           \    ()  ,'  /_  )    \     \     \\    \             
+	  '      || `.          `.    ,'   /( `.\  \ , \ .,_\    \\   ,             		<a href="https://www.linkedin.com/in/sgarai701">Linkedin</a> <br>
+	   `     || (_`.          ` .'   .'  )  `)'          \ ,   \\  '             
+		'    ||  (_ `-v-------  ^--v' , )                      '\\,              		<a href="https://www.github.com/susovangarai">Github</a>, <br> 
+		'    ||    (    , _,-  /  -./ )'                         `)              
+		 `   '|     ),  ,'    '     )'                                           		<a href="https://www.hackerone.com/sgarai">Hackerone</a> and <br>
+		  ' ' ;    /  ,'          ,'                                             		
+		   /,'    /  /      '    /    ., - --- .                                 		<a href="https://www.bugcrowd.com/sgarai701">Bugcroud</a>.</p>
+		   \|    /  (          ,'  .'           `.                               
+		   ('  ,'    `.    @  / ,'                \                              
+			 ,'        \    ,/,'        '`)   (_   )                             
+			/           \ , /'          ,      /  /                              
+			|            \  ,       , '       '  /                               
+			|             )      ,.'            /                                
+			|          ' `|   ,'              /                                 
+			 \         '  |  /             ,,'                                  
+			 |\           | <    ____,---'"                                   
+			 ` \           ','   (                                               
+			  \ '          /(____ ,`-._,-.                                        
+			   `.         /      `._, )---)                                       
+				 `-------'\         `/ \                                          
+				   )   )  \          ` \                                         
+				  /  '(    `.         `.                                         
+			 ___,' _, /      `.         .                                        
+			('.---/ \(         '.      '|                                        
+			/'    `|^'           .     ,                                         
+								 .     /                                         
+	                             .    '                                          
+	Art by						'   .'                                           
+		Susovan Garai         ,'  ,'                                             
+							 (_ '                  
+
+</pre>
 <span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> cd Profiles/About_Us
-<span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> cat susovan_garai.txt<br/><br/>
- 
-<p><br>"<span id="k">I think computer virus should count as life.
-	I think says somthing about human nature
-	that the only from of life we have created something
-	far is purely destructive.</span>" - Stephen Hawking
-</p><br>
-<p>"<span id="k">Hunters hunt in the woods but bug hunters hunt throughout the internet.</span>"
-													- Me
-</p>
+<span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> cat susovan_garai.txt<br><br>
+
+<pre><br>
+	"<span id="k">I think computer virus should count as life.
+	 I think says somthing about human nature
+	 that the only from of life we have created something
+	 far is purely destructive.</span>" - Stephen Hawking
+</pre>
+
+<pre>"<span id="k">Hunters hunt in the woods but bug hunters hunt throughout the internet.</span>"
+
+
+
 <p>
 Hey geeks! 
-Me,Susovan Garai, a CyberSecurity 3rd year student of <b>The Neotia University and bug hunter.</b>
+Me,Susovan Garai, a CyberSecurity 3rd year student of <b>The Neotia University</b> and bug hunter.
 I am good at verious security tools like burp, nmap, nikto, wireshark, nessus etc. also I have expirience of using linux os and operate different types of troubleshooting. I have keen interest in CTF playing and I am very enthusiast to learn new things.
-you can also give link to your professional portfolio here
-<a href="link"> portfolio</a>.</p> 
-<a href="link"> Here you go</a>.</p>
-<p> You can give links to other professional profiles you have on Internet, here: <br> 
-
-<a href="https://www.linkedin.com/in/sgarai701">Linkedin</a> <br> 
-<a href="https://www.github.com/susovangarai">Github</a>, <br> 
-<a href="https://www.hackerone.com/sgarai">Hackerone</a> and <br>
-<a href="https://www.bugcrowd.com/sgarai701">Bugcroud</a>.</p>
 
 Feel free to send me an email at<a href="sgarai701@gmail.com"> Email</a>.
 
 <p>Thank You</p>
 <span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span>
+<p>You want to procid further to know about me :</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
