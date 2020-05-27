@@ -1,20 +1,20 @@
 <span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> cd Profiles/About_Us
 <span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> cat susovan_garai.txt<br/><br/>
-My favorite code quote, 
-<p><br>"<span id="k">
-	I think computer virus should count as life.
+ 
+<p><br>"<span id="k">I think computer virus should count as life.
 	I think says somthing about human nature
 	that the only from of life we have created something
 	far is purely destructive.</span>" - Stephen Hawking
 </p><br>
-<p>"<span id="k">Hunters hunt in the woods but bug hunters hunt throughout the internet.</span>" 															- Susovan Garai
+<p>"<span id="k">Hunters hunt in the woods but bug hunters hunt throughout the internet.</span>"
+													- Me
 </p>
-
-Hey geeks! This is the portflio website. 
-<p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> 
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p>
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. 
+<p>
+Hey geeks! 
+Me,Susovan Garai, a CyberSecurity 3rd year student of <b>The Neotia University and bug hunter.</b>
+I am good at verious security tools like burp, nmap, nikto, wireshark, nessus etc. also I have expirience of using linux os and operate different types of troubleshooting. I have keen interest in CTF playing and I am very enthusiast to learn new things.
+you can also give link to your professional portfolio here
+<a href="link"> portfolio</a>.</p> 
 <a href="link"> Here you go</a>.</p>
 <p> You can give links to other professional profiles you have on Internet, here: <br> 
 
