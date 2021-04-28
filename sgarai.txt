@@ -1,7 +1,7 @@
-<span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> whoami
+<span id="a"><b>Susovan@kali</b></span>:<span id="b"><b>~</b></span><span id="c">$</span> whoami
 Susovan Garai
-<span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> cd Profiles/About_Us
-<span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span> cat susovan_garai.txt<br>
+<span id="a"><b>Susovan@kali</b></span>:<span id="b"><b>~</b></span><span id="c">$</span> cd Profiles/About_Us
+<span id="a"><b>Susovan@kali</b></span>:<span id="b"><b>~</b></span><span id="c">$</span> cat susovan_garai.txt<br>
 
 <pre><br>
 		"<span id="k">I think computer virus should count as life.
@@ -15,7 +15,7 @@ Susovan Garai
 </pre>
 <p>
 Hey geeks, 
-Me,Susovan Garai, a CyberSecurity 3rd year student of <b>The Neotia University</b> and bug 
+Me,Susovan Garai, a CyberSecurity 4th year student of <b>The Neotia University</b> and bug 
 hunter. I am good at verious security tools like Burp,Nmap,Nikto,Wireshark,Nessus etc. 
 Also I have expirience of using linux os and operate different types of troubleshooting. 
 I have keen interest in CTF playing and I am very enthusiast to learn new things.</p>
@@ -23,8 +23,9 @@ I have keen interest in CTF playing and I am very enthusiast to learn new things
 <pre>
 <a href="https://www.linkedin.com/in/sgarai701">	Linkedin</a> <br> 
 <a href="https://www.github.com/susovangarai">	Github</a>, <br> 
-<a href="https://www.hackerone.com/sgarai">	Hackerone</a> and <br>
-<a href="https://www.bugcrowd.com/sgarai701">	Bugcrowd</a>.</p><br>
+<a href="https://twitter.com/sgarai007">	twitter</a>, <br> 
+<a href="https://hackerone.com/mysteriousb0y">	Hackerone</a> and <br>
+<a href="https://bugcrowd.com/mysteriousB0y">	Bugcrowd</a>.</p><br>
 
 Feel free to send me an email at<a href="mailto:Sgarai701@gmail.com?subject=Blog Feedback:"> Email</a>.
 
