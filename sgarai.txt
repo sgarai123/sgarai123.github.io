@@ -17,7 +17,7 @@ Susovan Garai
 Hey geeks, 
 I, Susovan Garai, am an Ethical Hacker & Penetration Tester, CyberSecurity enthusiast and Part-Time bug hunter. I am currently working as a <b>Security Services Associate</b> in <b>Synopsys</b>. I am a graduated from <b>The Neotia University</b> in 2021. I am good at various security tools like Burp, Zap, Nmap, Nikto, Wireshark, Nessus etc. 
 Also, I have experience using Linux OS and operating different types of troubleshooting. 
-I have a keen interest in CTF playing and am very enthusiastic to learn new things and Technology.
+I have a keen interest in CTF playing and am very enthusiastic to learn new things and Technologies.
 </p>
 <p>My social media links are here: <br></p> 
 <pre>
@@ -27,7 +27,7 @@ I have a keen interest in CTF playing and am very enthusiastic to learn new thin
 <a href="https://hackerone.com/mysteriousb0y">	Hackerone</a> and <br>
 <a href="https://bugcrowd.com/mysteriousB0y">	Bugcrowd</a>.</p><br>
 
-Feel free to send me an <a href="mailto:Sgarai701@gmail.com?subject=Blog Feedback:"> Email</a>.
+Feel free to send me an <a href="mailto:Sgarai701@gmail.com?subject=Blog Feedback:">Email</a>.
 
 Thank you,
 
@@ -35,6 +35,6 @@ Thank you,
 You want to proceed further to know about me :</pre>
 
 
-<pre><a href="profile"> 		Accept.</a><a href="Thank you"> 		Reject.</a></pre>
+<pre><a href="profile"> 		Accept.</a><a href="Thanks"> 		Reject.</a></pre>
 
 <span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span>
