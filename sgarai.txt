@@ -15,10 +15,10 @@ Susovan Garai
 </pre>
 <p>
 Hey geeks, 
-Me,Susovan Garai, a CyberSecurity 4th year student of <b>The Neotia University</b> and bug 
-hunter. I am good at verious security tools like Burp,Nmap,Nikto,Wireshark,Nessus etc. 
-Also I have expirience of using linux os and operate different types of troubleshooting. 
-I have keen interest in CTF playing and I am very enthusiast to learn new things.</p>
+I, Susovan Garai, am an Ethical Hacker & Penetration Tester, CyberSecurity enthusiast and Part-Time bug hunter. I am currently working as a <b>Security Services Associate</b> in <b>Synopsys</b>. I am a graduated from <b>The Neotia University</b> in 2021. I am good at various security tools like Burp, Zap, Nmap, Nikto, Wireshark, Nessus etc. 
+Also, I have experience using Linux OS and operating different types of troubleshooting. 
+I have a keen interest in CTF playing and am very enthusiastic to learn new things and Technology.
+</p>
 <p>My social media links are here: <br></p> 
 <pre>
 <a href="https://www.linkedin.com/in/sgarai701">	Linkedin</a> <br> 
