@@ -35,6 +35,6 @@ Thank you,
 You want to proceed further to know about me :</pre>
 
 
-<pre><a href="profile"> 		Accept.</a><a href="Thanks"> 		Reject.</a></pre>
+<pre><a href="profile"> 		Accept.</a><a href="Thanks"> 		Reject.</a></pre><a href="https://drive.google.com/file/d/1D5nxhdS2eb5770Tq9wHsrr8KmFwiyjU6/view?usp=sharing"> 		CV.</a></pre>
 
 <span id="a">Susovan@kali</span>:<span id="b">~</span><span id="c">$</span>
